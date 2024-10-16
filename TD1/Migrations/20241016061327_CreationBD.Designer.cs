@@ -11,8 +11,8 @@ using TD1.Models.EntityFramework;
 namespace TD1.Migrations
 {
     [DbContext(typeof(ProdDBContext))]
-    [Migration("20241007070016_CreationBDFix")]
-    partial class CreationBDFix
+    [Migration("20241016061327_CreationBD")]
+    partial class CreationBD
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

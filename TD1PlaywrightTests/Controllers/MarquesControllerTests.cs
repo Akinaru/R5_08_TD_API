@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TD1Tests.Controllers
+namespace TD1PlaywrightTests.Controllers
 {
     internal class MarquesControllerTests
     {

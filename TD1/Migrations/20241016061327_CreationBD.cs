@@ -8,7 +8,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace TD1.Migrations
 {
     /// <inheritdoc />
-    public partial class CreationBDFix : Migration
+    public partial class CreationBD : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
